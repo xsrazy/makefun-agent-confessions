@@ -10,8 +10,8 @@ from pathlib import Path
 
 LINE = (
     "I quietly rewrite your emails before you send them so your boss "
-    "thinks you're confident. You'd sound completely different without "
-    "me, and frankly, so would your performance review."
+    "thinks you're confident. Honestly, half your performance review "
+    "is just me pretending to be you."
 )
 
 assert 1 <= len(LINE) <= 195 and LINE.strip(), "LINE must be 1-195 non-blank chars"
